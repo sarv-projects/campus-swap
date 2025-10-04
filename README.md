@@ -1,6 +1,6 @@
 # CampusSwap
 
-CampusSwap is a **full-stack marketplace platform** for college students to **buy, sell, and exchange items within different campuses**. It provides a secure, user-friendly environment where students can list items for sale, browse listings, communicate with sellers, and complete transactions safely.
+CampusSwap is a **full-stack marketplace platform** for college students to **buy, sell, and exchange items within same campus and between different campuses**. It provides a secure, user-friendly environment where students can list items for sale, browse listings, communicate with sellers, and complete transactions safely.
 
 ---
 
