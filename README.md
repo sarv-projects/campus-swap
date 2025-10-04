@@ -32,7 +32,7 @@ CampusSwap is a **full-stack marketplace platform** for college students to **bu
 - Decoupled architecture for scalability  
 
 ---
-## ** Future Improvements **
+## Future Improvements 
 
 -Image hosting on AWS S3
 
